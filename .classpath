@@ -13,5 +13,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="E:/ajay/mca2sem/apache-tomcat-8.5.47/apache-tomcat-8.5.47/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/ajay/mca2sem/apache-tomcat-8.5.47/apache-tomcat-8.5.47/lib/tomcat-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
