@@ -16,10 +16,10 @@ public class Sub extends HttpServlet {
 		int a=Integer.parseInt(request.getParameter("no1"));
 		int b=Integer.parseInt(request.getParameter("no2"));
 		int c=a-b;
-		int d=a*b;
+		//int d=a*b;
 		PrintWriter out=response.getWriter();
 		out.print(c);
-		out.print(d);
+		//out.print(d);
 	
 	}
 
